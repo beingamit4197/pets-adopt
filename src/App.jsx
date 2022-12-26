@@ -1,6 +1,6 @@
 import './App.css';
 import SearchParams from './SearchParams';
-
+ 
 const  App = () => {
   return(
     <div>
